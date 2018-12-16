@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <ImageView
+        android:id="@+id/XRecy_Image"
+        android:layout_width="152dp"
+        android:layout_height="152dp" />
+    <TextView
+        android:id="@+id/XRecy_Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/XRecy_Price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
